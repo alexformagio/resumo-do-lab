@@ -5,10 +5,10 @@ https://learn.microsoft.com/pt-br/azure/virtual-machines/windows/quick-create-po
 
 
 ## 1 - Imagem referente a criação da maquina virtual:
-/images/1-VM Criada.png
+![VM Criada](/images/1-VM Criada.png)
 
 ## 1 - Imagem referente a inicialização da VM:
-/images/2 - vm iniciada.png
+![VM Inicializada](/images/2 - vm iniciada.png)
 
 ## 1 - Imagem referente a execução do IIS:
-/images/3-IIS rodando.png
+![IIS rodando](/images/3-IIS rodando.png)
