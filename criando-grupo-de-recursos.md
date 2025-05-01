@@ -16,10 +16,10 @@ Inicialmente fazemos a criação de um grupo de recursos e adicionamos a ele uma
 ![Rede Criada dentro do grupo](images/gr4.png)
 
 ## 3 - Imagem referente a maquina virtual criada e adicionada ao grupo:
-![Itens do Grupo](images/5three.png)
+![Itens do Grupo](images/gr5.png)
 
 ## 4 - Imagem referente a maquina virtual sendo acessada:
 ![Maquina Virtual acessada](images/debian.png)
 
 ## 4 - Imagem referente a logs de atividade do grupo
-![Logs do grupo de recursos](images/logs.png)
+![Logs do grupo de recursos](images/grlogs.png)
