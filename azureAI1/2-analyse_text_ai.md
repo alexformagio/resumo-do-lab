@@ -1,4 +1,4 @@
-### Analisar texto no portal Azure AI Foundry
+# Analisar texto no portal Azure AI Foundry
 
 O Processamento de Linguagem Natural (PLN) é um ramo da IA que lida com linguagem escrita e falada. Você pode usar o PLN para construir soluções que extraem significado semântico de texto ou fala, ou que formulam respostas significativas em linguagem natural.
 
@@ -49,14 +49,14 @@ Frases-chave são as informações mais importantes em um texto. Vamos usar a ca
 3 - Selecione Executar. Revise a saída. Observe que o resumo extrativo em Detalhes fornece pontuações de classificação para as frases mais salientes.
 ![Resultado do Resumo](images/ia10.png)
 
-# Resultado do Resumo:
+### Resultado do Resumo:
 Detalhes
-# Resumo de extração:
+### Resumo de extração:
 (Pontuação de classificação: 78%) Very noisy and rooms are tiny
 (Pontuação de classificação: 100%) The Lombard Hotel, San Francisco, USA
 (Pontuação de classificação: 76%) Hotel is located on Lombard street which is a very busy SIX lane street directly off the Golden Gate Bridge.
 
-#Resumo de abstração:
+### Resumo de abstração:
 
 The reviewer experienced significant noise pollution and small room sizes during their stay at The Lombard Hotel in San Francisco, noting the busy Lombard Street location and persistent traffic, particularly on weekends. Despite the hotel'dedouble efforts to update rooms, the insulation was inadequate, necessitating the use of cotton balls in the ears to sleep. The chosen room, intended for two queen-sized beds, was disappointingly cramped, making it unsuitable for a family of four. However, the hotel was commended for maintaining cleanliness and its convenient location in the Marina District, which offers various dining options within walking distance. The overall tone suggests a mixed experience, with negative aspects primarily related to noise and space, but some positive attributes in terms of cleanliness and locale. The review could be particularly unappealing for guests seeking quiet and spacious accommodations.
 

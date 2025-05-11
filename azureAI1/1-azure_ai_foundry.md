@@ -1,5 +1,5 @@
 
-### Explorar a fala no portal do Azure AI Foundry
+# Explorar a fala no portal do Azure AI Foundry
 O serviço de fala do Azure AI transcreve fala em texto e texto em fala audível. Você pode usar o AI Speech para criar um aplicativo que possa transcrever notas de reuniões ou gerar texto a partir da gravação de entrevistas.
 
 Neste exercício, você usará o Azure AI Speech no portal Azure AI Foundry, a plataforma da Microsoft para criar aplicativos inteligentes, para transcrever áudio usando as experiências integradas de teste.
