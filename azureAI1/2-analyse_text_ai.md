@@ -22,7 +22,7 @@ No Azure AI Foundry, projetos são contêineres que ajudam a organizar seu traba
 
 6- Na página Playgrounds, selecione o bloco de playground de Linguagem para experimentar algumas capacidades de Linguagem da Azure AI.
 
-##Extraia entidades nomeadas com o Azure AI Language no portal Azure AI Foundry
+## Extraia entidades nomeadas com o Azure AI Language no portal Azure AI Foundry
 Entidades nomeadas são palavras que descrevem pessoas, lugares e objetos com nomes próprios. Vamos usar a capacidade de extração de entidades nomeadas do Azure AI Language para identificar tipos de informações em uma avaliação.
 
 1 - No playground de Linguagem, selecione Extrair informações. Em seguida, selecione o bloco Extrair entidades nomeadas.
@@ -32,7 +32,7 @@ Entidades nomeadas são palavras que descrevem pessoas, lugares e objetos com no
 
 3 - Selecione Executar. Revise a saída. Observe na seção Detalhes como as entidades extraídas vêm com informações adicionais, como tipo e pontuações de confiança. A pontuação de confiança representa a probabilidade de que o tipo identificado realmente pertença a essa categoria.
 
-##Extraia frases-chave com o Azure AI Language no portal Azure AI Foundry
+## Extraia frases-chave com o Azure AI Language no portal Azure AI Foundry
 Frases-chave são as informações mais importantes em um texto. Vamos usar a capacidade de extração de frases-chave do Azure AI Language para extrair informações importantes de uma avaliação.
 
 1 - No playground de Linguagem, selecione Extrair informações. Em seguida, selecione o bloco Extrair frases-chave.
@@ -49,13 +49,15 @@ Frases-chave são as informações mais importantes em um texto. Vamos usar a ca
 3 - Selecione Executar. Revise a saída. Observe que o resumo extrativo em Detalhes fornece pontuações de classificação para as frases mais salientes.
 ![Resultado do Resumo](images/ia10.png)
 
-Resultado do Resumo:
+# Resultado do Resumo:
 Detalhes
-Resumo de extração:
+# Resumo de extração:
 (Pontuação de classificação: 78%) Very noisy and rooms are tiny
 (Pontuação de classificação: 100%) The Lombard Hotel, San Francisco, USA
 (Pontuação de classificação: 76%) Hotel is located on Lombard street which is a very busy SIX lane street directly off the Golden Gate Bridge.
-Resumo de abstração:
+
+#Resumo de abstração:
+
 The reviewer experienced significant noise pollution and small room sizes during their stay at The Lombard Hotel in San Francisco, noting the busy Lombard Street location and persistent traffic, particularly on weekends. Despite the hotel'dedouble efforts to update rooms, the insulation was inadequate, necessitating the use of cotton balls in the ears to sleep. The chosen room, intended for two queen-sized beds, was disappointingly cramped, making it unsuitable for a family of four. However, the hotel was commended for maintaining cleanliness and its convenient location in the Marina District, which offers various dining options within walking distance. The overall tone suggests a mixed experience, with negative aspects primarily related to noise and space, but some positive attributes in terms of cleanliness and locale. The review could be particularly unappealing for guests seeking quiet and spacious accommodations.
 
 ## Limpar

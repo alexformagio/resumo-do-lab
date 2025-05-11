@@ -42,5 +42,5 @@ Neste exercício, você experimentou os serviços de Fala da Azure AI no Speech 
 ## Limpeza
 Se você não pretende fazer mais exercícios, exclua quaisquer recursos que não precise mais. Isso evita acumular custos desnecessários.
 
-1 - Abra o portal do Azure e selecione o grupo de recursos que contém o recurso que você criou. 
+1 - Abra o portal do Azure e selecione o grupo de recursos que contém o recurso que você criou.
 2 - Selecione o recurso e clique em Excluir e, em seguida, em Sim para confirmar. O recurso será então excluído.
