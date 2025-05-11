@@ -18,6 +18,7 @@ No Azure AI Foundry, projetos são contêineres que ajudam a organizar seu traba
 ![Criando projeto](images/ia2.png)
 
 5 - Após os recursos serem criados, você será levado à página de Visão Geral do seu projeto. No menu à esquerda da tela, selecione Playground.
+
 ![Playground](images/ia7.png)
 
 6- Na página Playgrounds, selecione o bloco de playground de Linguagem para experimentar algumas capacidades de Linguagem da Azure AI.

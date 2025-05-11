@@ -7,10 +7,10 @@ Neste exercício, você usará o Azure AI Speech no portal Azure AI Foundry, a p
 ## Criar um projeto no portal Azure AI Foundry
 
 1 - Em uma aba do navegador, navegue até o Azure AI Foundry.
-
 2 - Faça login com sua conta.
+3 - Na página inicial do portal Azure AI Foundry, selecione Criar um projeto.
 
-3 - Na página inicial do portal Azure AI Foundry, selecione Criar um projeto. No Azure AI Foundry, projetos são contêineres que ajudam a organizar seu trabalho.
+No Azure AI Foundry, projetos são contêineres que ajudam a organizar seu trabalho.
 ![Wizard de criação](images/ia1.png)
 
 4 - No painel Criar um projeto, você verá um nome de projeto gerado, que pode manter como está. Dependendo de você ter criado um hub no passado, você verá uma lista de novos recursos do Azure a serem criados ou uma lista suspensa de hubs existentes. Se você ver a lista suspensa de hubs existentes, selecione Criar novo hub, crie um nome exclusivo para o seu hub e selecione Avançar.
