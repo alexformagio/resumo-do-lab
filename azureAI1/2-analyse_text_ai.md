@@ -8,7 +8,9 @@ Neste exercício, você usará o Azure AI Language no portal Azure AI Foundry, a
 
 ## Criar um projeto no portal Azure AI Foundry
 1 - Em uma aba do navegador, navegue até o Azure AI Foundry.
+
 2 - Faça login com sua conta.
+
 3 - Na página inicial do portal Azure AI Foundry, selecione Criar um projeto. 
 
 No Azure AI Foundry, projetos são contêineres que ajudam a organizar seu trabalho.
@@ -47,7 +49,9 @@ Frases-chave são as informações mais importantes em um texto. Vamos usar a ca
 1 - Vamos analisar as capacidades de resumo do Azure AI Language. No playground de Linguagem, selecione Resumir informações, em seguida, selecione o bloco Resumir texto. 
 
 2 - Na amostra, copie e cole a seguinte avaliação:
-3 - Selecione Executar. Revise a saída. Observe que o resumo extrativo em Detalhes fornece pontuações de classificação para as frases mais salientes.
+
+3 - Selecione Executar. Revise a saída. Observe que o resumo extrativo em 
+Detalhes fornece pontuações de classificação para as frases mais salientes.
 ![Resultado do Resumo](images/ia10.png)
 
 ### Resultado do Resumo:

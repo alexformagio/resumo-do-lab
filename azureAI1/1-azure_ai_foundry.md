@@ -7,7 +7,9 @@ Neste exercício, você usará o Azure AI Speech no portal Azure AI Foundry, a p
 ## Criar um projeto no portal Azure AI Foundry
 
 1 - Em uma aba do navegador, navegue até o Azure AI Foundry.
+
 2 - Faça login com sua conta.
+
 3 - Na página inicial do portal Azure AI Foundry, selecione Criar um projeto.
 
 No Azure AI Foundry, projetos são contêineres que ajudam a organizar seu trabalho.
@@ -43,4 +45,5 @@ Neste exercício, você experimentou os serviços de Fala da Azure AI no Speech 
 Se você não pretende fazer mais exercícios, exclua quaisquer recursos que não precise mais. Isso evita acumular custos desnecessários.
 
 1 - Abra o portal do Azure e selecione o grupo de recursos que contém o recurso que você criou.
+
 2 - Selecione o recurso e clique em Excluir e, em seguida, em Sim para confirmar. O recurso será então excluído.
