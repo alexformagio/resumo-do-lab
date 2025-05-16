@@ -31,7 +31,7 @@ A solução que você criará para a Fourth Coffee requer os seguintes recursos 
     3 - Selecione Revisar + criar e, após ver a resposta Validação bem-sucedida, selecione Criar.  
 
     4 - Após a conclusão da implantação, selecione Ir para o recurso. Na página de visão geral da Pesquisa AI do Azure, você pode adicionar índices, importar dados e pesquisar índices criados.
-![Recurso criado](images/ia-search1.png)
+![Recurso criado](images/ai-search1.png)
 
 ## Criar um recurso de serviços de IA do Azure  
 Você precisará provisionar um recurso de serviços de IA do Azure que esteja na mesma localização que seu recurso de Pesquisa de IA do Azure. Sua solução de pesquisa usará este recurso para enriquecer os dados no armazenamento com insights gerados por IA.
@@ -49,7 +49,7 @@ Você precisará provisionar um recurso de serviços de IA do Azure que esteja n
 
 3 - Aguarde a conclusão da implantação e, em seguida, visualize os detalhes da implantação.
 
-![Recurso criado](images/ia-search2.png)
+![Recurso criado](images/ai-search2.png)
 
 ## Criar uma conta de armazenamento  
 1 - Volte para a página inicial do portal Azure e, em seguida, selecione o botão + Criar um recurso.  
@@ -68,7 +68,7 @@ Você precisará provisionar um recurso de serviços de IA do Azure que esteja n
 
 5 - Altere a configuração para Permitir acesso anônimo a Blob para Habilitado e, em seguida, selecione Salvar.
 
-![Recurso criado](images/ia-search3.png)
+![Recurso criado](images/ai-search3.png)
 
 ## Carregar Documentos para o Armazenamento do Azure  
 1 - No painel de menu à esquerda, selecione Contêineres.
@@ -85,7 +85,7 @@ Você precisará provisionar um recurso de serviços de IA do Azure que esteja n
 
 5 - No portal do Azure, selecione seu container coffee-reviews. No container, selecione Carregar.
 
-![Recurso criado](images/ia-search4.png)
+![Recurso criado](images/ai-search4.png)
 
 ## Indexar os documentos  
 Depois de ter os documentos armazenados, você pode usar o Azure AI Search para extrair insights dos documentos. O portal do Azure fornece um assistente de Importação de dados. Com este assistente, você pode criar automaticamente um índice e um indexador para fontes de dados suportadas. Você usará o assistente para criar um índice e importar seus documentos de pesquisa do armazenamento para o índice do Azure AI Search.  
