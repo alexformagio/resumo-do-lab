@@ -41,6 +41,7 @@ A IA generativa descreve uma categoria de capacidades dentro da IA que criam con
 7 - Revise a resposta. Nota: Tenha em mente que a resposta específica que você recebe pode variar devido à natureza da IA generativa.
 
 8 - Vamos tentar outro prompt. Digite o seguinte:
+
 ![Resposta](images/chat3.png)
 ![Resposta](images/chat4.png)
 
