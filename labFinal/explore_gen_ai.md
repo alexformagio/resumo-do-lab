@@ -35,32 +35,31 @@ A IA generativa descreve uma categoria de capacidades dentro da IA que criam con
     * Defina expectativas claras para a resposta
 
 6 - Vamos tentar gerar uma resposta usando um prompt com um objetivo específico. Na caixa de chat, insira o seguinte...
-![Resposta](images/chat1.png)
-![Resposta](images/chat2.png)
+![Resposta](images/chat01.png)
+![Resposta](images/chat02.png)
 
 7 - Revise a resposta. Nota: Tenha em mente que a resposta específica que você recebe pode variar devido à natureza da IA generativa.
 
 8 - Vamos tentar outro prompt. Digite o seguinte:
-
-![Resposta](images/chat3.png)
-![Resposta](images/chat4.png)
+![Resposta](images/chat03.png)
+![Resposta](images/chat04.png)
 
 9 - Revise a resposta, que deve fornecer alguns lugares para ficar em Paris.
 
 10 - Vamos iterar com base em prompts e respostas anteriores para refinar o resultado. Insira o seguinte prompt:
-![Resposta](images/chat5.png)
-![Resposta](images/chat6.png)
+![Resposta](images/chat05.png)
+![Resposta](images/chat06.png)
 
 11 - Revise a resposta, que deve fornecer opções de refeições perto de uma localização da resposta anterior.
 
 12 - Agora, vamos fornecer uma fonte para fundamentar a resposta em um escopo específico de informações. Insira o seguinte:
-![Resposta](images/chat7.png)
-![Resposta](images/chat8.png)
+![Resposta](images/chat07.png)
+![Resposta](images/chat08.png)
 
 13 - Revise a resposta, que deve fornecer informações com base no site fornecido.
 
 14 - Vamos tentar adicionar contexto para maximizar a relevância da resposta. Insira o seguinte prompt:
-![Resposta](images/chat9.png)
+![Resposta](images/chat09.png)
 ![Resposta](images/chat10.png)
 
 15 - Revise a resposta e o raciocínio para a resposta.
