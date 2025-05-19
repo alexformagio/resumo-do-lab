@@ -53,7 +53,7 @@ A IA generativa descreve uma categoria de capacidades dentro da IA que criam con
 11 - Revise a resposta, que deve fornecer opções de refeições perto de uma localização da resposta anterior.
 
 12 - Agora, vamos fornecer uma fonte para fundamentar a resposta em um escopo específico de informações. Insira o seguinte:
-![Resposta](images/chat07.png)
+![Resposta](images/chat07a.png)
 ![Resposta](images/chat08.png)
 
 13 - Revise a resposta, que deve fornecer informações com base no site fornecido.
