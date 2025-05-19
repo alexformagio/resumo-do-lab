@@ -42,7 +42,7 @@ A IA generativa descreve uma categoria de capacidades dentro da IA que criam con
 
 8 - Vamos tentar outro prompt. Digite o seguinte:
 ![Resposta](images/chat03a.png)
-![Resposta](images/chat04b.png)
+![Resposta](images/chat04a.png)
 
 9 - Revise a resposta, que deve fornecer alguns lugares para ficar em Paris.
 
