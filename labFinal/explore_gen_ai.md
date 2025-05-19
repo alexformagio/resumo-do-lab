@@ -48,7 +48,7 @@ A IA generativa descreve uma categoria de capacidades dentro da IA que criam con
 
 10 - Vamos iterar com base em prompts e respostas anteriores para refinar o resultado. Insira o seguinte prompt:
 ![Resposta](images/chat05b.png)
-![Resposta](images/chat06b.png)
+![Resposta](images/chat06a.png)
 
 11 - Revise a resposta, que deve fornecer opções de refeições perto de uma localização da resposta anterior.
 
