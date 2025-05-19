@@ -60,7 +60,7 @@ A IA generativa descreve uma categoria de capacidades dentro da IA que criam con
 
 14 - Vamos tentar adicionar contexto para maximizar a relevância da resposta. Insira o seguinte prompt:
 ![Resposta](images/chat09.png)
-![Resposta](images/chat10.png)
+![Resposta](images/chat10a.png)
 
 15 - Revise a resposta e o raciocínio para a resposta.
 
