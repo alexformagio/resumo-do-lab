@@ -65,7 +65,7 @@ A IA generativa descreve uma categoria de capacidades dentro da IA que criam con
 15 - Revise a resposta e o raciocínio para a resposta.
 
 16 - Agora tente estabelecer expectativas claras para a resposta. Insira o seguinte prompt:
-![Resposta](images/chat11.png)
+![Resposta](images/chat11a.png)
 ![Resposta](images/chat12.png)
 
 17 - Revise a resposta, que deve fornecer uma lista numerada de pontos turísticos para ver em Paris.
